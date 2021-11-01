@@ -50,3 +50,4 @@ sudo apt install imview -y
 sudo apt install python2 -y
 sudo apt install python3 -y
 sudo apt install python3-pip -y
+sudo apt install apache2 -y
