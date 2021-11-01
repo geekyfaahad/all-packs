@@ -14,14 +14,14 @@ sudo apt-get install -y python-dnspython
 sudo apt-get install -y git
 sudo apt-get install -y rename
 sudo apt-get install -y xargs
-sudo apt install imview
-sudo apt install net-tools
-sudo apt install eog
-sudo apt install terminology
-sudo apt install gzip
-sudo apt install ruby
-sudo apt install curl
-sudo apt install imview
-sudo apt install python2
-sudo apt install python3
-sudo apt install python3-pip
+sudo apt install imview -y
+sudo apt install net-tools -y
+sudo apt install eog -y
+sudo apt install terminology -y
+sudo apt install gzip -y
+sudo apt install ruby -y
+sudo apt install curl -y
+sudo apt install imview -y
+sudo apt install python2 -y
+sudo apt install python3 -y
+sudo apt install python3-pip -y
