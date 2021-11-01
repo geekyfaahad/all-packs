@@ -30,6 +30,7 @@ sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip
 sudo apt-get install -y sharutils rar uudeview mpack arj cabextract file-roller
 sudo apt-get install -y gnome-tweak-tool
 sudo apt-get install -y unity-tweak-tool
+sudo apt-get install -y vlc
 sudo apt install imview -y
 sudo apt install net-tools -y
 sudo apt install eog -y
