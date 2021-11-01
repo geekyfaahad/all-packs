@@ -20,6 +20,14 @@ sudo apt-get install -y xargs
 sudo apt-get install -y ubuntu-restricted-extras
 sudo apt-get install -y flashplugin-installer
 sudo apt-get install -y linuxdcpp
+sudo apt-get install -y eiskaltdcpp
+sudo apt-get install -y ffmpeg gxine libdvdread4
+sudo apt-get install -y icedax tagtool libdvd-pkg
+sudo apt-get install -y easytag id3tool lame libxine2-ffmpeg
+sudo apt-get install -y nautilus-script-audio-convert libmad0
+sudo apt-get install -y mpg321 libavcodec-extra gstreamer1.0-libav
+sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip
+sudo apt-get install -y sharutils rar uudeview mpack arj cabextract file-roller
 sudo apt install imview -y
 sudo apt install net-tools -y
 sudo apt install eog -y
