@@ -17,6 +17,9 @@ sudo apt-get install -y python-dnspython
 sudo apt-get install -y git
 sudo apt-get install -y rename
 sudo apt-get install -y xargs
+sudo apt-get install -y ubuntu-restricted-extras
+sudo apt-get install -y flashplugin-installer
+sudo apt-get install -y linuxdcpp
 sudo apt install imview -y
 sudo apt install net-tools -y
 sudo apt install eog -y
