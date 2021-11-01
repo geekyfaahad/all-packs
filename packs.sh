@@ -28,6 +28,8 @@ sudo apt-get install -y nautilus-script-audio-convert libmad0
 sudo apt-get install -y mpg321 libavcodec-extra gstreamer1.0-libav
 sudo apt-get install -y p7zip-rar p7zip-full unace unrar zip unzip
 sudo apt-get install -y sharutils rar uudeview mpack arj cabextract file-roller
+sudo apt-get install -y gnome-tweak-tool
+sudo apt-get install -y unity-tweak-tool
 sudo apt install imview -y
 sudo apt install net-tools -y
 sudo apt install eog -y
