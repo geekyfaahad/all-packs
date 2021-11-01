@@ -1,5 +1,3 @@
-sudo add-apt-repository ppa:apt-fast/stable
-sudo apt-get -y install apt-fast
 sudo apt-get install -f
 sudo apt-get -y update
 sudo apt-get -y upgrade
