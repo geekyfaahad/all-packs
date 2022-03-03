@@ -45,6 +45,7 @@ sudo apt install eog -y
 sudo apt install terminology -y
 sudo apt install gzip -y
 sudo apt install ruby -y
+sudo apt-get install ruby-full
 sudo apt install curl -y
 sudo apt install imview -y
 sudo apt install python2 -y
