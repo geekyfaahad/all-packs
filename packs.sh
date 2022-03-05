@@ -54,4 +54,5 @@ sudo apt install python3-pip -y
 sudo apt install apache2 -y
 sudo apt install openssh-server -y
 sudo apt install golang-go -y
+sudo apt install gccgo-go -y
 exit
