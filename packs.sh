@@ -6,8 +6,7 @@ echo "
 ██║░░░░░██║░░██║██║░░██║██║░░██║██║░░██║██████╔╝
 ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░"
 sudo apt-get install -f
-sudo apt-get -y update
-sudo apt-get -y upgrade
+sudo apt-get update && sudo apt-get dist-upgrade
 sudo apt-get install -y libcurl4-openssl-dev
 sudo apt-get install -y libssl-dev
 sudo apt-get install -y jq
